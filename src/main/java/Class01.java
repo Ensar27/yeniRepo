@@ -6,6 +6,5 @@ public class Class01 {
         System.out.println("V^3 kodları");//V3
 
 
-
     }
 }
